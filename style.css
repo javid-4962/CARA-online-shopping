@@ -1037,6 +1037,12 @@ footer .copyright {
   #sm-banner .banner-box2 {
     margin-top: 20px;
   }
+  #sm-banner span {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+  }  
   #banner3 {
     padding: 0 20px;
   }
