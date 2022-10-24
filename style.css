@@ -1061,6 +1061,10 @@ footer .copyright {
     width: 100% !important;
     /* margin-right: 50px; */
   }
+  #prodetails .single-pro-details {
+    width: 100%;
+    padding-top: 30px;
+  }
 
   /* blog page */
   #blog {
