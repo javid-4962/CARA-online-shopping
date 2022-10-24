@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ecommers website for project purpose</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" crossorigin="anonymous">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"
+    />
+  </head>
+  <style>
+    body{
+        background-color: #344a72;
+        font-family: 'Roboto', sans-serif;
+    }
+    #signup-box{
+        width: 560px;
+        margin: 10% auto;
+        /* background-color: #fff; */
+        border-radius: 16px;
+        /* overflow-x: auto;      */
+        background: url('img/about/a5.jpg'),no-repeat;
+    background-size: auto, auto;
+  background-size: cover;
+}
+   
+    h1{
+        background-color: rgb(230, 240, 135);
+        font-size: 35px;
+        margin-bottom: 10px;
+        text-align: center;
+        padding: 15px 0 10px 0;
+        border-top-left-radius: 16px;
+        border-top-right-radius: 16px;
+    }
+    h4{
+        text-align: center;
+    }
+    form{
+        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    form label{
+        display: flex;
+        width: 50%;
+        font-size: 18px;
+        margin-left: 20px;
+    }
+    form input{
+        width: 450px;
+        margin: 20px 20px;
+        /* margin-left: 20px; */
+        padding: 7px;
+        border: none;
+        outline: none;
+        border: 1px solid #e2e2e2;
+    }
+    form .submit{
+        font-size: 20px;
+        height: 50px;
+        width: 150px;
+        background: rgb(230, 240, 135);
+        margin: auto 15px;
+    }
+    form p{
+        text-align: center;
+        font-size: 15px;
+    }
+    form p> a{
+        color: rgb(5, 207, 247);
+    }
+#disable{
+    display: none;
+}
+#email{
+    display: block;
+}
+.mobi{
+    display: block;
+    font-size: 13px;
+    color: red;
+    margin: 0 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+
+@media (max-width: 580px) {
+#signup-box {
+	width: 350px;
+	background-color: #fff;
+	border-radius: 16px;
+}
+.signup{
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    background-color: rgb(230, 240, 135));
+	font-size: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+h4{
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+form label {
+	font-size: 15px;
+    margin: 0;
+}
+form input {
+    width: 300px;
+	margin: 10px 0;
+	padding: 7px;
+	border: none;
+	outline: none;
+	border: 1px solid #e2e2e2;
+}
+form .submit {
+	font-size: 15px;
+	width: 300px;
+	background: rgb(230, 240, 135);
+	display: block;
+    margin: 0;
+}
+form p {
+	text-align: left;
+	font-size: 10px;
+}
+.mobi{
+    display: block;
+    font-size: 13px;
+    color: red;
+    margin: 0 0px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+
+
+    }
+
+  </style>
+  <body>
+
+    <section id="header">
+      <a href="#"><img src="img/logo.png" class="logo" alt="" /></a>
+
+      <div>
+        <ul id="navbar">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="shop.html">Shop</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="about.html">About</li>
+          <li><a class="active" href="sign.html">Sign up</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li id="lg-bag">
+            <a href="cart.html"><i class="fas fa-shopping-bag"></i></a>
+        </li>
+        <a href="#" id="close"><i class="fas fa-times"></i></a>
+    </ul>
+</div>
+<div id="mobile">
+    <a href="cart.html"><i class="fas fa-shopping-bag active"></i></a>
+    <i id="bar" class="fas fa-bars"></i>
+      </div>
+    </section>
+    <section id="signup-box">
+        <h1>Sign In</h1>
+        <h4>Login with your email or mobile number</h4>
+        <form action="">
+            <div class="signup ">
+            <div id="email">
+                 <label for="email" >Email</label>
+                 <input type="email">
+                 <a href="#" onclick="displaymobile()" id="mobile-signin1" class="mobi">Login with mobile number</a>
+            </div>
+            <div id="disable">
+                <label for="mobile" >Mobile</label>
+                <input type="mobile" >
+                <a href="#"  onclick="displayemail()" id="mobile-signin2" class="mobi">Login with email</a>
+        </div>
+            <label for="password">Password</label>
+            <input type="password" required>
+           
+        </div>
+        <button class="normal submit">Submit</button>
+            <div class="signin">
+                <p>Forget password or Email? <a href="forgetpass.html">Click here</a></p>
+            </div>
+
+        </form>
+    </section>
+    
+    <script src="script.js"></script>
+    <script>
+       function displaymobile(){
+           if(document.getElementById('disable').style.display='none'){
+            document.getElementById('disable').style.display = 'block';
+            document.getElementById('email').style.display = 'none';
+        }
+        } 
+       function displayemail(){
+           if(document.getElementById('email').style.display='none'){
+            document.getElementById('email').style.display = 'block';
+            document.getElementById('disable').style.display = 'none';
+        }
+        } 
+    </script>
+  </body>
+</html>
