@@ -9,26 +9,26 @@ My Website link is: https://javid-4962.github.io/finalFRTpro/
 
 
 ## HOME
-![home1](https://user-images.githubusercontent.com/111061547/197750232-c6552524-a6f9-4040-ab2c-fa123444c4a0.PNG)
+![home1](https://user-images.githubusercontent.com/111061547/198042161-f150df51-9dad-4e7a-9f41-5174665df9cb.jpg)
+![home2](https://user-images.githubusercontent.com/111061547/198042187-f7cefb3f-1546-4f8e-8a39-360a31f9ded0.jpg)
+![home3](https://user-images.githubusercontent.com/111061547/198042203-081b272a-ba4f-4b6e-b529-0997ba9ea4e8.jpg)
+![home4](https://user-images.githubusercontent.com/111061547/198042218-72072589-8179-42ad-8fb7-dfa6d5fc2c23.jpg)
+![home5](https://user-images.githubusercontent.com/111061547/198042231-725c26ef-f299-46af-ade5-5779f142af47.jpg)
+![home6](https://user-images.githubusercontent.com/111061547/198042251-8fa65584-7648-4892-89d8-35567951a3a0.jpg)
+![home7](https://user-images.githubusercontent.com/111061547/198042275-fba1e916-3e5d-4be3-a2dd-7177ab6bc86d.jpg)
+![home8](https://user-images.githubusercontent.com/111061547/198042294-524034a4-21c5-4702-b93e-13b74eca8316.jpg)
 
-![home2](https://user-images.githubusercontent.com/111061547/197750246-2a08ea63-6a69-4c78-a721-3d4e520d406d.PNG)
-
-![home3](https://user-images.githubusercontent.com/111061547/197750254-208202ad-f83d-4455-8f82-97ac8c0a420e.PNG)
-
-![home5](https://user-images.githubusercontent.com/111061547/197750267-d3d9321e-58ee-443a-812b-a289e6e769d6.PNG)
-
-
-## SHOP
-![shop1](https://user-images.githubusercontent.com/111061547/197750310-716794a3-fbea-4121-a93f-3b7b2691c540.PNG)
-![shop2](https://user-images.githubusercontent.com/111061547/197750326-0b8737cd-83ac-4598-a488-4965b1450efb.PNG)
 
 ## ABOUT
-![about1](https://user-images.githubusercontent.com/111061547/197750367-cb74e1ae-c238-4f99-874a-f49c3e4fdf28.PNG)![about2](https://user-images.githubusercontent.com/111061547/197750374-e09a0705-7cbb-400c-afbd-5f9ae6b0ebfd.PNG)
+![about1](https://user-images.githubusercontent.com/111061547/198043215-da369d0d-21a7-4e6f-9e59-615c031761b1.jpg)
+![about2](https://user-images.githubusercontent.com/111061547/198042541-1d508657-4c58-449d-ac08-118cf1759555.jpg)
+![about3](https://user-images.githubusercontent.com/111061547/198042557-5e38145f-2cef-407b-93a9-3da13ea43680.jpg)
+
 
 ## CONTACT
-![contact1](https://user-images.githubusercontent.com/111061547/197750690-4c1d01db-c943-456c-af25-4e99c8a56cc1.PNG)
-![contact2](https://user-images.githubusercontent.com/111061547/197750701-7591e16e-6896-4783-b572-3180dc75eaed.PNG)
-
+![contact1](https://user-images.githubusercontent.com/111061547/198042627-5a35158c-ede3-4253-9251-a539927903fa.jpg)
+![contact2](https://user-images.githubusercontent.com/111061547/198042642-82cf9be5-7723-4395-b1f4-c586037c6718.jpg)
+![contact3](https://user-images.githubusercontent.com/111061547/198042659-f216454a-cb95-4453-b4e9-c91818f7b705.jpg)
 
 
 ## Microsoft Azure Link: https://happy-dune-0571dd600.2.azurestaticapps.net
