@@ -32,3 +32,10 @@ My Website link is: https://javid-4962.github.io/CARA-online-shopping/
 
 
 ## Microsoft Azure Link: https://happy-dune-0571dd600.2.azurestaticapps.net
+
+## Resources 
+![resourcesfinal](https://user-images.githubusercontent.com/111061547/200832592-25384d69-4743-4f52-a7e7-548625ca25cf.jpg)
+
+![static](https://user-images.githubusercontent.com/111061547/200832902-a6cfb423-7387-4de4-83f5-52cc9287362e.jpg)
+![appservices](https://user-images.githubusercontent.com/111061547/200832910-86ff8495-9030-49b1-b61c-405ed5f7f48f.jpg)
+
