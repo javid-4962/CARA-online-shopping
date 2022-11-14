@@ -1,11 +1,29 @@
 ## finalFRTpro
 ## E-commers Web by shaik masthan javid vali
 
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : Cara Online Shopping
+
+Problem Statement/Opportunity : Here Is An Best Online Catelogs.  
+
+Project Description : Online shopping is a form of electronic commerce which allows consumers to directly buy products by clothed by seller.
+
+Primary Azure Technology : Static Web Apps, App Service
+
+Static Web App URL : https://happy-dune-0571dd600.2.azurestaticapps.net/
+
+App Services URL : https://appservices509.azurewebsites.net
+
+My Website Link: https://happy-dune-0571dd600.2.azurestaticapps.net/
 
 Here I Created A Shopping Web Which Can Order Different Brands And Trendy Offers On Cloths Are Available In This Website Called 'cara'.
-
-
-My Website link is: https://javid-4962.github.io/CARA-online-shopping/
 
 
 ## HOME
