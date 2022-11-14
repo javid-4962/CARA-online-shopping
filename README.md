@@ -13,7 +13,7 @@ Project Title : Cara Online Shopping
 
 Problem Statement/Opportunity : Here Is An Best Online Catelogs.  
 
-Project Description : Online shopping is a form of electronic commerce which allows consumers to directly buy clothed for seller in retail prices.
+Project Description : Online shopping is a form of electronic commerce which allows consumers to directly buy clothed for seller in retail prices through internet.
 
 Primary Azure Technology : Static Web Apps, App Service
 
