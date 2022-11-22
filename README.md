@@ -11,9 +11,26 @@ Industry : Lifestyle
 
 Project Title : Cara Online Shopping
 
-Problem Statement/Opportunity : Here Is An Best Online Catelogs.  
+Problem Statement/Opportunity : Online shopping is a very popular and easy way to shop at present time.  
 
-Project Description : Online shopping is a form of electronic commerce which allows consumers to directly buy clothed for seller in retail prices through internet.
+Project Description : Core idea is Online shopping of branded cloths available in lowest prices and exclusive offers. 
+
+Benefits of online shopping - 
+                      
+Saves time and efforts. 
+                        
+The convenience of shopping at home. 
+                        
+Wide variety/range of products are available. 
+                        
+Good discounts / lower prices. 
+                        
+Get detailed information about the product. 
+                        
+We can compare various models/brands.
+                        
+Online shopping is the process whereby consumers directly buy goods or services from a seller in real-time, without an intermediary service, over the Internet. It is a form of electronic commerce.
+                      
 
 Primary Azure Technology : Static Web Apps, App Service
 
@@ -49,7 +66,9 @@ Here I Created A Shopping Web Which Can Order Different Brands And Trendy Offers
 ![contact3](https://user-images.githubusercontent.com/111061547/198042659-f216454a-cb95-4453-b4e9-c91818f7b705.jpg)
 
 
-## Microsoft Azure Link: https://happy-dune-0571dd600.2.azurestaticapps.net
+# Microsoft Azure Links: 
+## Static Web link: https://happy-dune-0571dd600.2.azurestaticapps.net
+## App Services link: https://appservices509.azurewebsites.net
 
 ## Resources 
 ![resourcesfinal](https://user-images.githubusercontent.com/111061547/200832592-25384d69-4743-4f52-a7e7-548625ca25cf.jpg)
