@@ -65,6 +65,9 @@ Here I Created A Shopping Web Which Can Order Different Brands And Trendy Offers
 ![contact2](https://user-images.githubusercontent.com/111061547/198042642-82cf9be5-7723-4395-b1f4-c586037c6718.jpg)
 ![contact3](https://user-images.githubusercontent.com/111061547/198042659-f216454a-cb95-4453-b4e9-c91818f7b705.jpg)
 
+## Website preview video
+https://user-images.githubusercontent.com/111061547/203556223-07019887-9182-45b4-b615-b6c8312e736a.mp4
+
 
 # Microsoft Azure Links: 
 ## Static Web link: https://happy-dune-0571dd600.2.azurestaticapps.net
