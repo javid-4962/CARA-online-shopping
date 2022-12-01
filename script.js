@@ -14,3 +14,7 @@ if(close){
     })
 }
 
+function addToCart(){
+    alert("Item is added to cart..")
+}
+
